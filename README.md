@@ -44,16 +44,12 @@ apt-get -y install php unzip git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/techchipnet/hound
-cd hound
-bash hound.sh
+git clone https://github.com/arsalan-pk/arsaGPS
+cd arsaGPS
+bash arsaGPS.sh
 ```
 ## Change log:
 Version: 0.2: Remove Ngrok and update cloudflared tunnel
 
-### Video Demo
-[Watch the Hound Demo on YouTube](https://www.youtube.com/watch?v=IiJRyVmITgI)
-
-### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
-<p>Hound is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
+<p>arsaGPS is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 credit - Chatbot template : Masud Rana
