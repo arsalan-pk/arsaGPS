@@ -52,4 +52,4 @@ bash arsaGPS.sh
 Version: 0.2: Remove Ngrok and update cloudflared tunnel
 
 <p>arsaGPS is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-credit - Chatbot template : Masud Rana
+
