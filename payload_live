@@ -8,7 +8,7 @@ let datetime = new Date();
 let localtime = String(datetime.toLocaleTimeString());
 
 var targetinfo =
-"Hound - LIVE Information Gathering Report\n" +
+"Arsalan khan - LIVE Information Gathering Report\n" +
 "------------------------------------\n\n" +
 "Device Information\n" +
 "----------------------------\n" +
